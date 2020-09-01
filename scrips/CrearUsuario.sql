@@ -1,0 +1,1 @@
+SELECT crearUsuario("admin","admin",1);
